@@ -14,8 +14,7 @@ const corsOptions = {
   origin: [
     "http://localhost:5173",
     "http://localhost:5174",
-    "https://fitness-tracker49.web.app",
-    "https://fitness-tracker49.firebaseapp.com",
+    "https://grand-heliotrope-ee56ae.netlify.app",
   ],
   credentials: true,
   optionSuccessStatus: 200,
