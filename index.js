@@ -14,7 +14,7 @@ const corsOptions = {
   origin: [
     "http://localhost:5173",
     "http://localhost:5174",
-    "https://grand-heliotrope-ee56ae.netlify.app",
+    "https://fitness-training-client.onrender.com",
   ],
   credentials: true,
   optionSuccessStatus: 200,
